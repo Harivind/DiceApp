@@ -13,7 +13,7 @@ void main() {
             children: [
               Icon(Icons.apps),
               Text(
-                'DICE',
+                'DICE ',
                 style: TextStyle(fontSize: 20, fontFamily: "SourceCode"),
               ),
             ],
